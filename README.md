@@ -4,5 +4,5 @@ A visually stunning tour reservation app built with Node.js, MongoDB, and Pug. I
 ## Technologies
 1. Node.JS
 2. MongoDB
-3. MVC framework
+3. MVC architecture
 4. Pug template engine
